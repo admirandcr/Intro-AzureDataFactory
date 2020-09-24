@@ -3,12 +3,12 @@ Para este laboratorio utilizaremos al [Portal de Azure](https://portal.azure.com
 
 ## Recursos a utilizar
 Para el desarrollo del laboratorio vamos a utilizar los sigiuentes recursos de Azure. 
-	**1. Azure Data Lake** https://docs.microsoft.com/es-es/azure/storage/blobs/data-lake-storage-introduction
-	**2. Azure SQL Database** https://docs.microsoft.com/es-es/azure/azure-sql/
-	**3. Azure Data Factory** https://docs.microsoft.com/es-es/azure/data-factory/introduction
-	1. James Madison
-	2. James Monroe
-	3. John Quincy Adams
+**1. Azure Data Lake** https://docs.microsoft.com/es-es/azure/storage/blobs/data-lake-storage-introduction
+**2. Azure SQL Database** https://docs.microsoft.com/es-es/azure/azure-sql/
+**3. Azure Data Factory** https://docs.microsoft.com/es-es/azure/data-factory/introduction
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
 	
 	
 
