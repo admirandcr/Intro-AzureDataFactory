@@ -36,4 +36,6 @@ Realice los siguientes pasos en su suscripción de Azure.
   
 6.	Listo, haz creado tu primer Data Lake. 
 
+Ahora continuemos a nuestro siguiente laboratorio.
 
+[Siguiente >]()
