@@ -16,21 +16,24 @@ Realice los siguientes pasos en su suscripción de Azure.
 4.	Haz click en + Add.
 
  ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/2StorageAccount.png)
-5.	Selecciona la suscripción sobre la cual se va a crear el recurso.
-a.	En el Resource Group, crea uno nuevo e ingresa demodatauniRG. Puedes utilizar el nombre que gustes mientras cumpla con las reglas de nomenclatura.
-b.	Storage account name : Ingresa un nombre descriptivo para el nombre de la cuenta.
-c.	Location: La ubicación más cercana del datacenter en donde te encuentres. Para este ejemplo podemos usar (US) Central US.
-d.	Performance: Selecciona Standard. 
-e.	Account Type:  Storage V2.
-f.	Replication: Locally-Redundant Storage (LRS)
-g.	Blob access tier (default): Hot
-h.	Click en Networking.
-i.	Los valores se quedan en default. Haz click en Data protection. 
-j.	Los valores se quedan en default. Haz click en Advanced. 
-k.	En la opción Data Lake Storage Gen2, activar Hierarchical namespace. Haz click en Tags.
-l.	Incluir un tag. Ejemplo: Name – Analytics, Value – Produccion. Haz click en Review + Create.
-m.	Valide lo que está por crearse y haga click en Create. 
  
+5.	Selecciona la suscripción sobre la cual se va a crear el recurso.
+ -	En el Resource Group, crea uno nuevo e ingresa demodatauniRG. Puedes utilizar el nombre que gustes mientras cumpla con las reglas de nomenclatura.
+ - Storage account name : Ingresa un nombre descriptivo para el nombre de la cuenta.
+ - Location: La ubicación más cercana del datacenter en donde te encuentres. Para este ejemplo podemos usar (US) Central US.
+ - Performance: Selecciona Standard. 
+ - Account Type:  Storage V2.
+ - Replication: Locally-Redundant Storage (LRS)
+ - Blob access tier (default): Hot
+ - Click en Networking.
+ - Los valores se quedan en default. Haz click en Data protection. 
+ - Los valores se quedan en default. Haz click en Advanced. 
+ - En la opción Data Lake Storage Gen2, activar Hierarchical namespace. Haz click en Tags.
+ - Incluir un tag. Ejemplo: Name – Analytics, Value – Produccion. Haz click en Review + Create.
+ - Valide lo que está por crearse y haga click en Create. 
+ 
+  ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/3Review.png)
+  
 6.	Listo, haz creado tu primero Data Lake. 
 
 
