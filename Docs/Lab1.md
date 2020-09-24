@@ -38,4 +38,4 @@ Realice los siguientes pasos en su suscripción de Azure.
 
 Ahora continuemos a nuestro siguiente laboratorio.
 
-[Siguiente >]()
+[Siguiente >](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/Lab2-CreateSQLDatabase.md)
