@@ -3,3 +3,6 @@ Introducción a la transferencia de datos desde máquinas virtuales y bases de d
 
 ## Introducción
 Este laboratorio lo llevará a traves de un proceso de transferencia de archivos desde una máquina virtual hacia un Datalake, además de replicar el mismo proceso para la transferencia de datos desde una base de datos Azure SQL Database hacia el Datalake. 
+
+##Laboratorio
+Inicie acá
