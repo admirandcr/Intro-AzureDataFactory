@@ -15,7 +15,7 @@ Realice los siguientes pasos en su suscripción de Azure.
 3.	En las Categorías, busca Storage y has click en Storage Accounts.
 4.	Haz click en + Add.
 
- 
+ ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/2StorageAccount.png)
 5.	Selecciona la suscripción sobre la cual se va a crear el recurso.
 a.	En el Resource Group, crea uno nuevo e ingresa demodatauniRG. Puedes utilizar el nombre que gustes mientras cumpla con las reglas de nomenclatura.
 b.	Storage account name : Ingresa un nombre descriptivo para el nombre de la cuenta.
