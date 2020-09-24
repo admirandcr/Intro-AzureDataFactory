@@ -7,6 +7,8 @@ Para el desarrollo del laboratorio vamos a utilizar los sigiuentes recursos de A
 2. **Azure SQL Database** https://docs.microsoft.com/es-es/azure/azure-sql/
 3. **Azure Data Factory** https://docs.microsoft.com/es-es/azure/data-factory/introduction
 
-## Inicia el camino a la nube [aquí]
+## Siguientes pasos
+Nuestros próximos pasos consistirán en comenzar nuestro viaje hacia la nube.
+[Siguiente >]
 	
 
