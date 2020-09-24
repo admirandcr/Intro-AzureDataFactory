@@ -34,6 +34,6 @@ Realice los siguientes pasos en su suscripción de Azure.
  
   ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/3Review.png)
   
-6.	Listo, haz creado tu primero Data Lake. 
+6.	Listo, haz creado tu primer Data Lake. 
 
 
