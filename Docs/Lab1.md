@@ -10,8 +10,7 @@ Realice los siguientes pasos en su suscripción de Azure.
 1.	Ingrese al Azure Portal.
 2.	En el Azure Portal haga click en el menú de la esquina superior izquierda y haga click en All Services.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](Intro-AzureDatafactory/Docs/img/CreateResource.png)
+(https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/CreateResource.png)
  
 3.	En las Categorías, busca Storage y has click en Storage Accounts.
 4.	Haz click en + Add.
