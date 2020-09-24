@@ -9,6 +9,7 @@ Para el desarrollo del laboratorio vamos a utilizar los sigiuentes recursos de A
 
 ## Siguientes pasos
 Nuestros próximos pasos consistirán en comenzar nuestro viaje hacia la nube.
-[Siguiente >]
+
+[Siguiente >](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/Lab1.md)
 	
 
