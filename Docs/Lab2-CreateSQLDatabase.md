@@ -61,6 +61,14 @@ Ejecuta los siguientes pasos para conectarte a la base de datos.
 
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/Panel.PNG)
 
-6. Ingrese las credenciales de la base de datos que utilizó al crear la base de datos.
+6. Ingrese las credenciales de la base de datos que utilizó al crear la base de datos y haga click en **Ok**
 
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/QueryEditor.PNG)
+
+   En caso de presentarse un mensaje de error como el siguiente.
+   
+![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/FirewallError.png)
+
+   Debe de agregar la regla del firewall para agregar la dirección ip siguiendo la liga del mensaje. 
+  
+![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/FirewallSettings.PNG)
