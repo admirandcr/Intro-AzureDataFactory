@@ -74,7 +74,7 @@ Ejecuta los siguientes pasos para conectarte a la base de datos.
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/FirewallSettings.PNG)
 
 7. Ahora en la pantalla de consultas ingrese la siguiente sentencia SQL.
-   **SELECT * FROM SalesLT.Customer** y haga click en **Run**
+  .text-blue on white **SELECT * FROM SalesLT.Customer** y haga click en **Run**
    
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/CustomerTable.PNG)
 
