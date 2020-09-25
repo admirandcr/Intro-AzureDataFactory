@@ -69,6 +69,6 @@ Ejecuta los siguientes pasos para conectarte a la base de datos.
    
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/FirewallError.png)
 
-   Debe de agregar la regla del firewall para agregar la dirección ip siguiendo la liga del mensaje. 
+   Debe de agregar la regla del firewall para agregar la dirección ip siguiendo la liga del mensaje. Agregue la dirección IP que despliega el mensaje.
   
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/FirewallSettings.PNG)
