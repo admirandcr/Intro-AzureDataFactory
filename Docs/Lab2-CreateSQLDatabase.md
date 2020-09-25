@@ -39,6 +39,12 @@ Realice los siguientes pasos en su suscripción de Azure.
 14.	Activar Sample en **Use existing data**. Hacer click en **Tags** y agrega los que correspondan.  Haz click en **Review + Create**.
 15.	Valide lo que está por crearse y haga click en **Create**. 
 
+![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/DeploymentComplete.PNG)
+
 Felicidades, haz creado tu primera Base de Datos Azure SQL Database. 
+
+
+
+## Conectarse a la base de datos
 
 
