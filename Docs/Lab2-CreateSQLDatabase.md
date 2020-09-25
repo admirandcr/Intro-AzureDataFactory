@@ -46,4 +46,10 @@ Felicidades, haz creado tu primera Base de Datos Azure SQL Database. Ahora veamo
 
 ## Conectarse a la base de datos
 
+Ejecuta los siguientes pasos para conectarte a la base de datos.
 
+1. En el Azure Portal haga click en el menú de la esquina superior izquierda y haga click en **All Services.**
+
+![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/CreateResource.png)
+ 
+3.	En las Categorías, busca **Databases** y has click en **SQL Databases.**
