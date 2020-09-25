@@ -72,3 +72,14 @@ Ejecuta los siguientes pasos para conectarte a la base de datos.
    Debe de agregar la regla del firewall para agregar la dirección ip siguiendo la liga del mensaje. Agregue la dirección IP que despliega el mensaje.
   
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/FirewallSettings.PNG)
+
+7. Ahora en la pantalla de consultas ingrese la siguiente sentencia SQL.
+   **SELECT * FROM SalesLT.Customer** y haga click en **Run**
+   
+![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/CustomerTable.PNG)
+
+   La consulta debe de retornar los registros que contiene la tabla.
+   
+Es importante recalcar que es posible utilizar el [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15) o bien el [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) para realizar las consultas sobre la base de datos. Sin embargo para efectos de este laboratorio las consultas las realizaremos desde el portal de Azure.
+
+
