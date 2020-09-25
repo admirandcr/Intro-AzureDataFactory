@@ -21,7 +21,7 @@ Realice los siguientes pasos en su suscripción de Azure.
  -	En el Resource Group, crea uno nuevo e ingresa **demodatauniRG**. Puedes utilizar el nombre que gustes mientras cumpla con las reglas de nomenclatura.
  - Storage account name : Ingresa un nombre descriptivo para el nombre de la cuenta.
  - Location: La ubicación más cercana del datacenter en donde te encuentres. Para este ejemplo podemos usar **(US) Central US.**
- - Performance: Selecciona **Standard. **
+ - Performance: Selecciona **Standard.**
  - Account Type: **Storage V2.**
  - Replication: **Locally-Redundant Storage (LRS)**
  - Blob access tier (default): **Hot**
