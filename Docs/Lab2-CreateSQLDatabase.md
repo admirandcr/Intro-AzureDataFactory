@@ -55,3 +55,12 @@ Ejecuta los siguientes pasos para conectarte a la base de datos.
 3.	En las Categorías, busca **Databases** y has click en **SQL Databases.**
 
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/AllDatabases.PNG)
+
+4. Hacer click sobre la base de datos **CloudBiker**.
+5. En el panel de la izquierda, haga click sobre la opción **Query Editor**.
+
+![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/Panel.PNG)
+
+6. Ingrese las credenciales de la base de datos que utilizó al crear la base de datos.
+
+![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/QueryEditor.PNG)
