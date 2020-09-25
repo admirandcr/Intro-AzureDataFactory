@@ -41,8 +41,7 @@ Realice los siguientes pasos en su suscripción de Azure.
 
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/DeploymentComplete.PNG)
 
-Felicidades, haz creado tu primera Base de Datos Azure SQL Database. 
-
+Felicidades, haz creado tu primera Base de Datos Azure SQL Database. Ahora veamos como conectarnos a la base de datos que recién acabamos de crear.
 
 
 ## Conectarse a la base de datos
