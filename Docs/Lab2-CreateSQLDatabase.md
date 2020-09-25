@@ -85,3 +85,6 @@ Ejecuta los siguientes pasos para conectarte a la base de datos.
 Es importante recalcar que es posible utilizar el [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15) o bien el [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) para realizar las consultas sobre la base de datos. Sin embargo para efectos de este laboratorio las consultas las realizaremos desde el portal de Azure.
 
 
+Ahora continuemos a nuestro siguiente laboratorio.
+
+[Siguiente >](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/Lab3-CreateAzureDataFactory.md)
