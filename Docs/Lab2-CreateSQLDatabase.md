@@ -53,3 +53,5 @@ Ejecuta los siguientes pasos para conectarte a la base de datos.
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/CreateResource.png)
  
 3.	En las Categorías, busca **Databases** y has click en **SQL Databases.**
+
+![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/AllDatabases.png)
