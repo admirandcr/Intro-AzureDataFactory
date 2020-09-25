@@ -1,5 +1,5 @@
 # Acceda al laboratorio
-Para este laboratorio utilizaremos al [Portal de Azure](https://portal.azure.com/signin/index) utilizando la cuanta que se ha configurado. 
+Para este laboratorio utilizaremos al [Portal de Azure](https://portal.azure.com/signin/index) utilizando la cuenta que se ha configurado previamente como parte de los prerequisitos. 
 
 ## Recursos a utilizar
 Para el desarrollo del laboratorio vamos a utilizar los sigiuentes recursos de Azure. 
