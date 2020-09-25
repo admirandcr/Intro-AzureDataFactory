@@ -74,9 +74,10 @@ Ejecuta los siguientes pasos para conectarte a la base de datos.
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/FirewallSettings.PNG)
 
 7. Ahora en la pantalla de consultas ingrese la siguiente sentencia SQL.
-  <div class="text-blue">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div> **SELECT * FROM SalesLT.Customer** y haga click en **Run**
+ <div class="text-blue mb-2">
+   **SELECT * FROM SalesLT.Customer**
+ </div>
+ Haga click en **Run**
    
 ![Alt Text](https://github.com/admirandcr/Intro-AzureDataFactory/blob/master/Docs/img/CustomerTable.PNG)
 
